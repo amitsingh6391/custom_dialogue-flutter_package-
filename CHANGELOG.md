@@ -2,6 +2,6 @@
 
 * This is inital version for custom alert box.
 
-## 0.0.1.1 - 2021-09-16
+## 0.0.1+1 - 2021-09-16
 
 * Update Readme.md file.
