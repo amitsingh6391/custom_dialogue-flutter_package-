@@ -6,7 +6,7 @@
 //   int addOne(int value) => value + 1;
 // }
 
-library flutter_custom_package;
+library custom_dialouge;
 
 import "package:flutter/material.dart";
 

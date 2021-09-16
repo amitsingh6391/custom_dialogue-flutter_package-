@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.1 - 2021-09-16
 
-* TODO: Describe initial release.
+* This is inital version for custom alert box.
